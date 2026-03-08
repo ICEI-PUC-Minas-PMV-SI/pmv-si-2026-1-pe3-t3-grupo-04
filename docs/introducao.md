@@ -2,7 +2,7 @@
 
 As finanças pessoais envolvem o gerenciamento dos recursos financeiros de um indivíduo ou família, incluindo o controle de despesas, investimentos e tomada de decisões relacionadas ao consumo e ao uso do crédito. Nesse contexto, a educação financeira desempenha um papel fundamental ao fornecer conhecimentos e habilidades que permitem aos indivíduos administrar seu dinheiro de forma mais consciente e sustentável.
 
-Apesar da crescente importância do tema, diversos estudos indicam que grande parte da população apresenta dificuldades em lidar com questões financeiras básicas, como organização do orçamento, planejamento de gastos e controle de dívidas. Esse cenário é especialmente observado entre jovens, que muitas vezes iniciam sua vida financeira sem o devido preparo para lidar com decisões econômicas cotidianas.
+Apesar da crescente importância do tema, diversos estudos indicam que grande parte da população apresenta dificuldades em lidar com questões financeiras básicas, como organização do orçamento, planejamento de gastos e controle de dívidas. Esse cenário é especialmente observado entre jovens, que muitas vezes iniciam sua vida financeira sem o devido preparo para lidar com decisões econômicas cotidianas (FEBRABAN, 2025; OECD, 2023).
 
 As tecnologias digitais tem se tornado importantes aliadas na promoção da educação financeira e no apoio ao gerenciamento das finanças pessoais. Logo, soluções digitais podem ajudar a facilitar a gestão do dinheiro e incentivar hábitos financeiros mais responsáveis.
 
