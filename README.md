@@ -6,7 +6,7 @@
 
 `SEMESTRE: 3º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto consiste em um software voltado ao auxílio no controle financeiro pessoal de forma simplificada e acessível. Tem como objetivo contribuir para o desenvolvimento de maior autonomia financeira, auxiliando os indivíduos a adquirirem maior controle sobre suas finanças e a tomarem decisões mais informadas sobre o uso de seu dinheiro.
 
 ## Integrantes
 
