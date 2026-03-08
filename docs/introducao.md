@@ -1,11 +1,16 @@
 # 1. INTRODUÇÃO
 
-A educação financeira tem se tornado um tema cada vez mais relevante. Com o aumento das formas de pagamento digitais e facilidade de acesso ao crédito, torna-se essencial que indivíduos desenvolvam habilidades para administrar suas finanças de maneira consciente. A falta de educação financeira pode resultar em comportamentos como consumo impulsivo, endividamento e dificuldades na organização das finanças pessoais. Nesse cenário, ferramentas tecnológicas voltadas ao gerenciamento financeiro surgem como um importante recurso para auxiliar indivíduos a compreender melhor seus hábitos de consumo e a desenvolver maior controle sobre suas finanças.
+As finanças pessoais envolvem o gerenciamento dos recursos financeiros de um indivíduo ou família, incluindo o controle de despesas, investimentos e tomada de decisões relacionadas ao consumo e ao uso do crédito. Nesse contexto, a educação financeira desempenha um papel fundamental ao fornecer conhecimentos e habilidades que permitem aos indivíduos administrar seu dinheiro de forma mais consciente e sustentável.
+
+Apesar da crescente importância do tema, diversos estudos indicam que grande parte da população apresenta dificuldades em lidar com questões financeiras básicas, como organização do orçamento, planejamento de gastos e controle de dívidas. Esse cenário é especialmente observado entre jovens, que muitas vezes iniciam sua vida financeira sem o devido preparo para lidar com decisões econômicas cotidianas.
+
+As tecnologias digitais tem se tornado importantes aliadas na promoção da educação financeira e no apoio ao gerenciamento das finanças pessoais. Logo, soluções digitais podem ajudar a facilitar a gestão do dinheiro e incentivar hábitos financeiros mais responsáveis.
 
 ## 1.1. Problema
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, não é a hora de comentar sobre a aplicação. 
-Descreva também o contexto em que essa aplicação será usada, se houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
+Atualmente, muitos jovens enfrentam dificuldades para administrar suas finanças pessoais. Com o aumento do acesso a cartões de crédito, compras online e serviços por assinatura, tornou-se mais comum que jovens realizem gastos frequentes sem um controle adequado de suas despesas e receitas. Essa falta de organização financeira pode levar ao descontrole do orçamento pessoal, endividamento e dificuldades para planejar objetivos futuros, como poupar dinheiro ou realizar investimentos.
+Além disso, muitos jovens não têm conhecimento ou ferramentas adequadas para acompanhar seus gastos de forma clara e organizada. Em muitos casos, o controle financeiro é feito de maneira informal, como anotações em papel ou simplesmente confiando na memória, o que aumenta as chances de erros e esquecimento de despesas.
+Nesse contexto, observa-se a necessidade de ferramentas que ajudem no acompanhamento das finanças pessoais de forma simples e acessível, especialmente voltadas ao público jovem, que já estão acostumados a utilizar recursos digitais em seu cotidiano.
 
 ## 1.2. Objetivos do trabalho
 ## 1.2.1. Objetivo Geral
