@@ -8,8 +8,15 @@ Nesse momento você deve apresentar o problema que a sua aplicação deve resolv
 Descreva também o contexto em que essa aplicação será usada, se houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
 
 ## 1.2. Objetivos do trabalho
+## 1.2.1. Objetivo Geral
+Desenvolver um software voltado ao gerenciamento financeiro pessoal, com o objetivo de auxiliar os usuários a organizar suas finanças, compreender seus hábitos de consumo e tomar decisões financeiras mais conscientes.
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. O objetivo geral deve resumir e apresentar a ideia central de um trabalho, descrevendo também a sua finalidade. Os objetivos específicos darão uma maior delimitação ao tema, além de detalhar os processos necessários para a realização do trabalho.
+## 1.2.2. Objetivos Específicos
+- Identificar as principais dificuldades enfrentadas pelas pessoas na gestão de suas finanças pessoais, a fim de fundamentar as funcionalidades do sistema;
+- Levantar os requisitos necessários para o desenvolvimento do sistema;
+- Desenvolver uma interface e estrutura de software que facilite o uso para o usuário;
+- Desenvolver ferramentas de visualização de dados para ajudar o usuário a entender melhor suas finanças;
+- Testar o sistema desenvolvido para verificar seu funcionamento e usabilidade.
 
 ## 1.3. Justificativa
 
