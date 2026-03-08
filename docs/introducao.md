@@ -1,6 +1,6 @@
 # 1. INTRODUÇÃO
 
-Contextualizar a área de pesquisa do trabalho, apresentando conceitos e dados relacionados antes de apresentar a problemática a ser investigada.
+A educação financeira tem se tornado um tema cada vez mais relevante. Com o aumento das formas de pagamento digitais e facilidade de acesso ao crédito, torna-se essencial que indivíduos desenvolvam habilidades para administrar suas finanças de maneira consciente. A falta de educação financeira pode resultar em comportamentos como consumo impulsivo, endividamento e dificuldades na organização das finanças pessoais. Nesse cenário, ferramentas tecnológicas voltadas ao gerenciamento financeiro surgem como um importante recurso para auxiliar indivíduos a compreender melhor seus hábitos de consumo e a desenvolver maior controle sobre suas finanças.
 
 ## 1.1. Problema
 
