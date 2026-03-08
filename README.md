@@ -1,4 +1,4 @@
-# Título do Projeto
+# Midas Helper
 
 `CURSO: Sistemas de Informação`
 
@@ -10,16 +10,16 @@ O projeto consiste em um software voltado ao auxílio no controle financeiro pes
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Álvaro Pereira Rodarte
+* Diogo Senhorinha Souza
+* Guilherme Duarte de Paula Assis
+* Isadora Maria Ribeiro
+* Sofia Patrocinio de Abreu
+* Tiago Souza Dias
 
 ## Orientador
 
-* Nome completo do professor 
+* Maria Ines Lage de Paula
 
 # Planejamento
 
